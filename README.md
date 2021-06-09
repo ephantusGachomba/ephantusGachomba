@@ -1,9 +1,9 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Financial Analysis (Stock prices predictions)
+- 🔭 I’m currently working on Financial Analysis (Stock Prices Predictions)
 - 🌱 I’m currently learning NLP || TensorFlow
 - 👯 I’m looking to collaborate on Any Financial or NLP projects
 - 🤔 I’m looking for help with Model Deployment
-- 💬 Ask me about Supervised or Unsupervised Learning Python and R
+- 💬 Ask me about Supervised or Unsupervised Learning with Python and R
 - 📫 How to reach me: ephantusgachomba@gmail.com  || +254704374514
 - ⚡ Fun fact: Swimmer
 
