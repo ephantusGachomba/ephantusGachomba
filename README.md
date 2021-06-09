@@ -7,6 +7,10 @@
 - 📫 How to reach me: ephantusgachomba@gmail.com  || +254704374514
 - ⚡ Fun fact: Swimmer
 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=ephantusGachomba&theme=highcontrast&show_icons=true&count_private=true)
+
+
 <!--
 **ephantusGachomba/ephantusGachomba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
