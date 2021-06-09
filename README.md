@@ -7,6 +7,7 @@
 - 📫 How to reach me: ephantusgachomba@gmail.com  || +254704374514
 - ⚡ Fun fact: Swimmer
 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ephantusGachomba&layout=compact)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ephantusGachomba&theme=highcontrast&show_icons=true&count_private=true)
 
