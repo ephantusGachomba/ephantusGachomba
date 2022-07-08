@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Financial Analysis (Stock Prices Predictions)
+- 🔭 I’m currently working on Twitter Sentimental Analysis
 - 🌱 I’m currently learning NLP || TensorFlow
 - 👯 I’m looking to collaborate on Any Financial or NLP projects
 - 🤔 I’m looking for help with TensorFlow || Model Deployment
