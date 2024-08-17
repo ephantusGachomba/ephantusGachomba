@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Twitter Sentimental Analysis
-- 🌱 I’m currently learning NLP || TensorFlow
-- 👯 I’m looking to collaborate on Any Financial or NLP projects
-- 🤔 I’m looking for help with TensorFlow || Model Deployment
+- 🔭 I’m currently working on Cloud computing
+- 🌱 I’m learning AWS SA, Terraform, and Apache Kafka.
+- 👯 I’m looking to collaborate on any Cloud managed service.
+- 🤔 I’m looking for help with Apache Kafka connectors.
 - 💬 Ask me about Supervised or Unsupervised Learning with Python and R
 - 📫 How to reach me: ephantusgachomba@gmail.com  || +254704374514
 - ⚡ Fun fact: Swimmer
